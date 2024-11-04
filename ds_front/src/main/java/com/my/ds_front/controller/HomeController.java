@@ -38,7 +38,11 @@ public class HomeController {
 		return "ds-jumpit-detail";
 	}
 
-	
+	@GetMapping("saramin")
+	public String saramin() {
+		
+		return "saramin";
+	}
 	
 	
 }
