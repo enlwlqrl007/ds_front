@@ -158,11 +158,9 @@
 						<strong>안내</strong>
 					</label>	
 					<div class="agree_box">
-						<ul class="agree_acticle2">
-							<li>
-								사람인 회원으로 가입하시면 하나의 ID로 사람인이 제공하는 모든 서비스를 이용하실 수 있습니다.
-							</li>	
-						</ul>
+						<div class="agree_acticle2">
+							⊙ 사람인 회원으로 가입하시면 하나의 ID로 사람인이 제공하는 모든 서비스를 이용하실 수 있습니다.
+						</div>
 					</div>
 				</div>
 			</div>
